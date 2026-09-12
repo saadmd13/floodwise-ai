@@ -1,0 +1,30 @@
+# Core data science
+numpy
+pandas
+scipy
+
+# GIS and spatial analysis
+geopandas
+rasterio
+shapely
+pyproj
+fiona
+
+# Network analysis
+osmnx
+networkx
+
+# Machine learning
+scikit-learn
+
+# Visualization
+matplotlib
+plotly
+folium
+
+# Dashboard
+streamlit
+
+# Jupyter
+jupyter
+ipykernel
